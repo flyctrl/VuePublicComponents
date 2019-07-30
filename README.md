@@ -1,7 +1,7 @@
 ### notification组件
 使用方法：
 
-1.全局引用
+1.引用
 ```
 import Notification from './components/notification'
 Vue.use(Notification)
